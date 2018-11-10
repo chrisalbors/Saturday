@@ -51,3 +51,4 @@ $(".daily-lineup").dblclick(function() {
     let dataPictures= $(this).attr("data-pictures");
     $("." + dataPictures).slideUp();
 });
+// hello
